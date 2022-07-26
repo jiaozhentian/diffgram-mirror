@@ -1,1 +1,1 @@
-gcr.io/diffgram-open-core/frontend:latest
+FROM gcr.io/diffgram-open-core/frontend:latest
