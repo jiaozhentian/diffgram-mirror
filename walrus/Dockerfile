@@ -1,1 +1,1 @@
-FROM cr.io/diffgram-open-core/walrus:latest
+FROM gcr.io/diffgram-open-core/walrus:latest
